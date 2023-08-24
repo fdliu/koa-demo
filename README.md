@@ -3,10 +3,10 @@
 # koa web 服务器搭建开始
 主要依赖：koa，pm2，lowdb
 
-1. pm2守护服务进程，这里选择这个  
-    "pm2 start index.js --name koa-demo"
-2. nodemon守护  
-    "nodemon index.js"  
+1. pm2守护服务进程，这里选择这个    
+    "pm2 start index.js --name koa-demo"  
+2. nodemon守护    
+    "nodemon index.js"    
 
 #安装  
 1.npm install       安装package.json里的基础依赖  
