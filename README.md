@@ -1,3 +1,5 @@
+![img](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtsYXhtOWoyaWEyZ2w5enI0dnV1dHQ3OWtqZWx5MGN5ZnloMnVxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TObnkBM4p2bbu6fGdY/giphy.gif)
+
 # koa web 服务器搭建开始
 主要依赖：koa，pm2，lowdb
 
